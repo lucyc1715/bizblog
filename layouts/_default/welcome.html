@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode }}">
+  <head>
+    {{ partial "essentials/head" . }}
+  </head>
+  <body>
+    <div class="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800">
+      <div class="text-center px-6">
+        <h1 class="text-5xl md:text-7xl font-bold mb-8 text-gray-900 dark:text-white">
+          {{ .Title }}
+        </h1>
+        <div class="prose prose-lg dark:prose-invert mx-auto mb-12">
+          {{ .Content }}
+        </div>
+        <a href="/" class="inline-flex items-center px-8 py-4 text-lg font-semibold text-white bg-blue-600 hover:bg-blue-700 rounded-lg shadow-lg transition-all duration-300 transform hover:scale-105">
+          進入網站
+          <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+          </svg>
+        </a>
+      </div>
+    </div>
+    {{ partial "essentials/script" . }}
+  </body>
+</html>
