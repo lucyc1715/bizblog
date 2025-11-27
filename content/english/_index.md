@@ -13,7 +13,7 @@ banner:
 features:
   - title: "關於這個空間"
     image: "/images/service-1.jpg"
-    content: "這裡不只是技術筆記，更是我生活的縮影。從程式碼到音樂創作，從職場觀察到閱讀心得，記錄著一個工程師的多元生活。"
+    content: "這裡不只是技術筆記，更是我生活的縮影。從開發到向內自我探索，從職場觀察到閱讀心得，記錄著一個工程師的多元生活。"
     bulletpoints:
       - "**工作思考** - 工程師職涯、求職經驗、海外工作分享"
       - "**音樂探索** - 音樂產業觀察、創作心得、音樂推薦"
@@ -21,8 +21,8 @@ features:
       - "**生活隨筆** - 日常觀察、興趣探索、個人成長"
     button:
       enable: true
-      label: "閱讀文章"
-      link: "/blog"
+      label: "免費訂閱電子報"
+      link: "https://awesome-crafter-5859.kit.com/2078a5abc2"
 
   - title: "Coffee Chat 職涯諮詢"
     image: "/images/service-2.jpg"

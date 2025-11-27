@@ -16,6 +16,11 @@ name = "部落格"
 url = "/blog"
 weight = 3
 
+[[main]]
+name = "下載資源"
+url = "/resource"
+weight = 4
+
 
 # footer menu
 [[footer]]
