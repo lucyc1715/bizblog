@@ -4,6 +4,7 @@ meta_title: "關於 Lucy - 不只寫 Code 的工程師"
 description: "前端工程師、職涯經營顧問、音樂愛好者"
 image: "/images/avatar.png"
 draft: false
+notes: "如果你喜歡「工作只是生活的一部分」這理念，歡迎訂閱電子報。<br/>我會**確保每一封信都有足夠的思考密度與價值時**，才會發送深度觀點與資源，分享給同樣在探索、想活得更立體的你。"
 ---
 
 ## 嗨，我是 Lucy 路西

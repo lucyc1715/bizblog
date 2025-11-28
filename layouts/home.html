@@ -63,6 +63,11 @@
                 </li>
               {{ end }}
             </ul>
+            {{ if .notes }}
+              <div class="content mt-6 p-5 bg-gray-50 dark:bg-gray-800 rounded-lg border-l-4 border-primary">
+                {{ .notes | markdownify }}
+              </div>
+            {{ end }}
             {{ with .button }}
               {{ if .enable }}
                 <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">

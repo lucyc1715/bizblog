@@ -6,6 +6,11 @@
           {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mb-6" "Size" "200x200") }}
           <h2 class="h3 mb-6">{{ .Title }}</h2>
           <div class="content">{{ .Content }}</div>
+          {{ with .Params.notes }}
+          <div class="content" style="margin-top: 2rem; padding: 1.5rem; background-color: #f8f9fa; border-left: 4px solid #007bff; border-radius: 0.5rem;">
+            {{ . | markdownify }}
+          </div>
+          {{ end }}
         </div>
       </div>
     </div>
