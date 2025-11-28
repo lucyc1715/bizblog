@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Lucy Chen"
+logo_text = "Lucy 路西"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -55,18 +55,18 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = true
+enable = false
 expire_days = 7
-content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='underline' href='https://github.com/zeon-studio/hugoplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>"
+content = ""
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
-image = "images/og-image.png"
+keywords = ["前端工程師", "職涯經營", "音樂", "閱讀", "軟體開發", "Frontend Developer", "Career"]
+description = "我是 Lucy，一位熱愛音樂、閱讀與創作的前端工程師。從新創到外商銀行，從台灣到英國，我在不同環境中找到自己的節奏。在這裡分享我對工作、生活、職涯經營的想法與經驗。歡迎來場 Coffee Chat，一起聊聊職涯的任何疑問。"
+author = "Lucy 路西"
+twitter = "lucycbiz"
+image = "images/banner.jpg"
 
 
 # site verifications
@@ -81,7 +81,7 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = false
+enable = true
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
