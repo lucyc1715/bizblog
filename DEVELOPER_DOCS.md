@@ -9,7 +9,8 @@ Explains how to change colors, fonts, configuration, content, and layouts. Provi
 - Stack: Hugo (extended) + Tailwind CSS (Hugo Pipes) + Hugo Modules.
 - Theme Tokens: `exampleSite/data/theme.json`.
 - Config: `exampleSite/hugo.toml` + `exampleSite/config/_default/*.toml`.
-- Content Root (English): `exampleSite/content/english`.
+- Content Root (English): `content/en`.
+- Content Root (Chinese): `content/zh-tw`.
 - Layouts & Partials: `layouts/`.
 - CSS Source: `assets/css/` (`main.css` is the Tailwind entry).
 - Tailwind Plugins (custom): `exampleSite/tailwind-plugin/`.
@@ -107,6 +108,7 @@ Location: `exampleSite/hugo.toml` and `exampleSite/config/_default/`
 | `hugo.toml` | Site core settings (baseURL, outputs, pagination, modules, imaging, markup). |
 | `params.toml` | Theme/runtime parameters (logos, switches, search, metadata, UI feature toggles). |
 | `menus.en.toml` | Main & footer navigation (English). |
+| `menus.zh-tw.toml` | Main & footer navigation (Chinese). |
 | `languages.toml` | Multilingual language definitions. |
 | `module.toml` | Hugo module imports (theme + feature modules). |
 
@@ -145,13 +147,19 @@ Example entry:
 
 ```toml
 [en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
-contentDir = "content/english"
+contentDir = "content/en"
 weight = 1
+
+[zh-tw]
+languageName = "中文"
+languageCode = "zh-tw"
+contentDir = "content/zh-tw"
+weight = 2
 ```
 
-Add new language by copying block, pointing `contentDir` to a parallel directory (e.g. `content/spanish`). Duplicate menus & translations.
+Add new language by copying block, pointing `contentDir` to a parallel directory. Duplicate menus (`menus.<lang>.toml`) & translations (`i18n/<lang>.yaml`).
 
 ### 3.5 Modules (`module.toml`)
 
@@ -163,7 +171,8 @@ Add new language by copying block, pointing `contentDir` to a parallel directory
 
 ## 4. Content Authoring
 
-English root: `exampleSite/content/english/`
+English root: `content/en/`
+Chinese (zh-tw) root: `content/zh-tw/`
 
 Common blog front matter example:
 
@@ -219,7 +228,7 @@ Block pattern example:
 
 ### 5.1 Add a Homepage Section
 
-1. Create `content/english/sections/your-section.md` with front matter `enable: true` and any custom fields.
+1. Create `content/en/sections/your-section.md` with front matter `enable: true` and any custom fields.
 1. Insert block into `layouts/index.html`:
 
 ```html
@@ -266,7 +275,7 @@ Font scale or base changes propagate automatically if the plugin consumes `font_
 
 ## 8. Internationalization (i18n)
 
-- Translation files: `i18n/en.yaml` (add new languages: `i18n/<code>.yaml`).
+- Translation files: `i18n/en.yaml`, `i18n/zh-tw.yaml` (add new languages: `i18n/<code>.yaml`).
 - Configure new language in `languages.toml` and create matching `content/<lang>/` directory.
 - Duplicate menus (`menus.<lang>.toml`) if language-specific navigation is needed.
 

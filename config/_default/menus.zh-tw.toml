@@ -1,39 +1,39 @@
-############# English navigation ##############
+############# 中文導覽選單 ##############
 
 # main menu
 [[main]]
-name = "Home"
+name = "首頁"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "關於"
 url = "/about"
 weight = 2
 
 [[main]]
-name = "Blog"
+name = "部落格"
 url = "/blog"
 weight = 3
 
 [[main]]
-name = "Resources"
+name = "下載資源"
 url = "/resource"
 weight = 4
 
 
 # footer menu
 [[footer]]
-name = "Privacy Policy"
+name = "隱私權政策"
 url = "/privacy-policy"
 weight = 1
 
 [[footer]]
-name = "Disclaimer"
+name = "免責聲明"
 url = "/affiliate-disclosure"
 weight = 2
 
 [[footer]]
-name = "Copyright"
+name = "著作權聲明"
 url = "/copyright"
 weight = 3
