@@ -1,266 +1,130 @@
 ---
 title: "發現新音樂的 10 種方法和 8 個實用工具"
-meta_title: ""
 description: "分享 10 種發現新音樂的方法和 8 個實用工具，幫助你擴展音樂播放清單，走出舒適圈探索不同類型的音樂"
 date: 2021-10-05T00:00:00Z
-# image: "/images/image-placeholder.png"
 categories: ["音樂", "生活"]
 author: "Lucy Chen"
 tags: ["音樂推薦", "音樂探索", "播放清單", "音樂工具"]
 draft: false
 ---
 
-你是否也遇過這樣的困擾：打開音樂串流平台，總是聽來聽去都是那幾首歌？想要發現新音樂，卻不知道從何開始？
+How to discover new music? Have you ever get stuck in a musical rut? I found some ways that truly help me to discover new music and know various artists from Pop to Soundtrack. Let us start a great musical journey!
 
-這篇文章要分享 10 種發現新音樂的方法，以及 8 個實用工具，幫助你擴展音樂品味，從流行樂到原聲帶，探索更多音樂的可能性。
+## Have you ever get stuck in a musical rut?
 
-## 10 種發現新音樂的方法
+I was born in the 1990s, I like music in the 80s to 90s generation. Sometimes, I didn't satisfy new music in this era. I always listen to my favourite playlist repeated. However, as a music digger couldn't stay in my comfort zone for my entire life(why not!). I used to listen to pop music, British rock, and indie flok. Now, I listen to different genres as possible as I can cuz I believe there are still new artists are waiting for us to dig into the music world. Here are some ways I'm frequently used to expand my playlist.
 
-### 1. 串流音樂服務
+Before we started, I would like to claim that there is no right or wrong reason to discover new music. I sometimes enjoy staying in my comfort zones such as the film soundtrack genre and city-pop. At sometimes, I would like to discover different music to fulfil my mood at that moment. So let's start our musical journey.
 
-**推薦平台：**
-- Spotify
-- Apple Music
-- Amazon Music
-- SoundCloud
-- Bandcamp
+## How to discover new music
 
-**為什麼有效？**
+### 1. Streaming Service
 
-這些平台使用演算法根據你的聆聽歷史推薦音樂：
-- **個人化播放清單** - 如 Spotify 的 Discover Weekly
-- **相似藝人推薦** - 聽完一首歌後的自動播放
-- **精選歌單** - 根據心情、活動或類型策劃
+#### **Spotify, Apple Music, Amazon**
 
-### 2. 廣播與 Podcast
+You got it! This is the most common way to listen to different music by using technology in this digital age. It's the best place to find new music via the algorithm. It might sound weird but we should thank for them bringing music that is far away on the other side of the world into our life.
 
-**推薦頻道：**
-- BBC Radio 各頻道
-- 專業音樂 Podcast
-- 獨立音樂電台
+Most music streaming platforms have been provided similar services that attract users to stick on their APP. You might be an Apple Music user, a Spotify user. I use Spotify premium and I've used it for 8 years (since I was in college!). Spotify helps me to develop my music tastes and marketing knowledge of the music industry.
 
-**為什麼有效？**
+Spotify's playlist plays an important role in its services. Record labels create playlists that included their signed artists, which can increase the exposure of music and artists as wider as possible. So that I've created several playlists to exchange new songs with my classmates or my subscribers, which can technically train my playlist to recommend music that is my taste. Meanwhile, increasing the exposure of my favourite artist and songs.
 
-人工策展的選曲提供了演算法無法取代的價值：
-- **專業 DJ 的品味** - 精心挑選的音樂組合
-- **深度介紹** - 了解藝人背景和創作故事
-- **有機探索** - 不受演算法過濾的驚喜
+There are key features that can expand your music genre I really recommend you use Spotify.
 
-### 3. 現場活動
+- Feature 1: Genre Playlist\
+  It focus on a specific genre or mood such as "classic" and "happy folk". This helps users to quickly search genre, also it provides users various genre that they have not seen it before, for instance, "retro pop". Which let users to explore new area. For example, I found the City-Pop genre that was popular in the 1980s in Japan in the "Chill" playlist. I realise a lot of pioneers who become the super star in late genreation such as Sakamoto Ryūichi and Harry Hosono. AOR (Adult Oriented Rock) genre, it's also found in the "Chill" playlist. It is such a historical music journy. You might wondering how would I recognize music which is "city pop" or "AOR" music. There is no secret in here. I really recommend dig into the song that attract you. It may be music producer, composer, song writers, record studio etc. Don't miss any clue to find the music.
 
-**探索方式：**
-- 音樂節傳單
-- 演唱會海報
-- Live House 活動表
+- Feature 2: Discover Weekly\
+  Spotify's algorithm tracks your play history to recommend music or artists that you might interested. When you listen to this playlist, you would find a tnues of fun. Meanwhile, you would know some artists who you might heard but you finally know her or his name while you listen their songs.
 
-**為什麼有效？**
+- Feature 3: Daily Mix\
+  This alogrithm bases on all of your favourite music (frequent play)that collect them into a playlist by similar genre. For example, I'm usually listen to Radiohead once a week and play them whole day, so the alogrithm know "this user really likes Radiohead!". Therefore, the playlist is assemble bands that simliar with Radiohead. Then you would not be tired to the same artist also can listen to others.
 
-現場音樂場景揭示了：
-- **趨勢藝人** - 正在崛起的新秀
-- **新興類型** - 地下音樂和實驗性聲音
-- **在地音樂** - 各城市獨特的音樂文化
+#### **SoundCloud, Bandcamp**
+
+This place is like a treasure box! Most independent musicians upload their works here. Audiences are free to listen to their music online or they can buy tracks to download it. There are several artists who were discovered by independent music streaming websites, for example, Adele, Billie Eilish, James Bay etc. Don't miss these places!
+
+### 2. Radio Station or Podcast
+
+#### **BBC Radio**
+
+It's definitely a good resource to receive new music without the algorithm also it's more humane while someone understands your taste on the other side of the radio. Sometimes, we might not focus on the song are playing, but let it be like background music among the space.
+
+There is a lot of online radio that focus on music only. For example, BBC Radio 1 for all age groups and they mainly play pop music with all things chart. BBC Radio 2 is more for adults and the music genre tends to be wider and various. BBC Radio 6 focuses on all of the music from alternative music, classical music to pop music. This radio is also on my top choice in the radio list. I assure you will explore tons of new artists.
+
+Here is some URL for online stream radio
+
+- http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+- http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourlw_online_nonuk
+- http://stream.live.vc.bbcmedia.co.uk/bbc_6music
+- https://www.radio.net/
+- https://www.internet-radio.com/
+
+#### **Podcast**
+
+The podcast is suitable that you have already known a specific music genre, for example, Chill music is one of my favourite genres when I concentrate on writing then I'll play "qiubo radio". The podcast is hosted by two big Taiwanese boys. Both of them work as DJ in general life. The topics are about our daily life and everything in the music industry.
+
+### 3. Local Events, Live Shows, Music Festival
+
+It's been a long time that we couldn't go to the concert due to the pandemic. If everything is going well, we should definitely go to live shows as many as we can!
+
+How do we discover from live events?
+
+Review event brochure and flyer would be the first step to help us to find new musicians. It reveals what is primary music genre is, what musicians are popular in the current period, what music genre is promoted well in the venue, and the last one. You could see a certain genre that was presented by various artists. You will find who is suitable for your tea. I use this way to get into some genres that I have never tried and also discover some amazing artists. It's worths giving it a try!
 
 ### 4. Shazam
 
-**使用時機：**
-- 在咖啡廳聽到好聽的歌
-- 電視廣告的背景音樂
-- 朋友播放的未知曲目
+Shazam Do you have experience of a piece of rhythm that you really get into but you have no idea who sings the music. Shazam helps you to detect any music from which band and artists. When you go shopping and heard the background music. You could use this APP to detect what music. This APP owns a huge of data including artist information, years, publishing dates etc. When you heard a sound, don't hesitate to use it!
 
-**為什麼有效？**
+### 5. Music Review Sites/Blog Posts
 
-Shazam 能立即識別：
-- 歌曲名稱和藝人
-- 串流平台連結
-- 歌曲的完整資訊
+Music review website is the best music resource that provides music business, the latest release, live reviews, album reviews. My favourite one is [The Guardian Music](https://www.theguardian.com/music). The layout of the website provides everything you want to know in the music industry. You would not miss anything.
 
-### 5. 音樂評論網站
+To be honest, if you have already know what is your tastes, music review websites might not truly help you. Music blogs might give you some directions to discover different artists that performed in the same genre.
 
-**推薦網站：**
-- The Guardian Music
-- Pitchfork
-- NME
-- 獨立音樂部落格
+### 6. Social Media
 
-**為什麼有效？**
+Story is a common feature on Facebook or Instagram. Now we can listen to the music that our friends shared anytime, anywhere. It's an easy way to see what music genre that your friends love also it helps you to find new artists, new music. At the end of the year, Spotify releases a lot of statistics about what music do you play many times, your music genre rank, and your favourite song. It provides you to share your Story so that it's potentially public what your music tastes.
 
-專業評論提供：
-- **產業洞察** - 了解音樂趨勢
-- **藝人推薦** - 值得關注的新人
-- **深度分析** - 音樂背後的故事
+When I see a playlist from my friends, the first thing is to review the artist and add it to my Spotify then the music catalogue will be wider and vary.
 
-### 6. 社群媒體
+### 7. Record Labels
 
-**探索方式：**
-- 朋友分享的播放清單
-- Spotify 年度統計
-- Instagram 音樂分享
-- YouTube 音樂頻道
+Yes, this way can find artists who have just signed by the label. It narrows specific music genres, which helps us to listen to different styles of a similar genre.
 
-**為什麼有效？**
+### 8. Physical Record Shop
 
-朋友的音樂品味往往能帶來驚喜：
-- **個人化推薦** - 了解你的人推薦的音樂
-- **共同話題** - 可以一起討論和分享
-- **真實體驗** - 不是演算法生成的推薦
+Although record stores have gradually decreased year on year, some record shops that run for many years still manage well and even transferred the business to the online shop. No matter which type, you can grab a lot of music information such as music rank, the latest release, staff recommendation, live events and so on.
 
-### 7. 唱片公司
+Record Store Day (RSD) is an annual event that was launched by Chris Brown who worked in an American independent record store in 2007. It holds on the third Saturday every April to celebrate independent record stores. This is a big day for fans, musicians and many record stores so that you definitely need to visit record stores on this day. You will discover new music that you never know.
 
-**探索方式：**
-- 追蹤特定唱片公司
-- 訂閱廠牌通訊
-- 關注廠牌精選歌單
+These two record stores are frequent to visit, might help you get some ideas.
 
-**為什麼有效？**
+1.  Manchester -- [Piccadilly Records](https://www.piccadillyrecords.com/counter/index.php)
+2.  Liverpool -- [Dig Vinyl](https://digvinyl.co.uk/)
 
-唱片公司專注於特定風格：
-- **類型一致性** - 如果你喜歡某個廠牌的一位藝人，可能會喜歡其他簽約藝人
-- **品質保證** - 廠牌通常有篩選機制
-- **早期發現** - 比主流平台更早發現新人
+### 9. Soundtracks
 
-### 8. 實體唱片行
+How can we get ideas about new music in the soundtrack genre? When I watch films, I pay attention to the soundtrack that is played during the film. Especially, some music creates a hook to connect with audiences emotions, which is a good notice about the new music. Then, I will use Shazam or the film soundtrack website to find out what is the music in that scenes. It might help you to explore new music and new try.
 
-**體驗內容：**
-- 店員推薦
-- Record Store Day 活動
-- 新發行展示
+There are two types of the soundtrack in drama. Also as known as an original soundtrack (OST). One is music without vocals which is the score, the other is pre-existing songs that are played in the drama. I personally recommend a film soundtrack, "Green Book", the songs are arranged really well in its soundtrack album.
 
-**為什麼有效？**
+### 10. Share Playlist with Friends
 
-實體店提供獨特的探索體驗：
-- **專業建議** - 店員通常是音樂愛好者
-- **實體瀏覽** - 隨機發現的樂趣
-- **社群氛圍** - 與其他樂迷交流
+A-ha! This is the easiest way to find new music. It does not only strengthen friends bonds but also save time to discover new music by ourselves. In the meantime, friends help us to filter some music that doesn't meet our needs.
 
-### 9. 電影與電視原聲帶
+## Find New Music Tools
 
-**探索來源：**
-- 電影配樂
-- 影集插曲
-- 紀錄片音樂
+From item 1. to item 6. provide a big database for music fans to explore different artists and genres. Discogs is for vinyl fans to buy and sell second-hand physical records. Using this website potentially provides ideas to discover new music.
 
-**為什麼有效？**
+Item 7. and item 8. is really helpful to search the music that played in the drama. Sometimes it is a surprise when you find out about the artist!
 
-原聲帶揭示了：
-- **隱藏藝人** - 不常在主流榜單上的音樂家
-- **創作風格** - 配樂作曲家的獨特聲音
-- **情境音樂** - 不同情緒和氛圍的音樂
+1.  [music map](https://www.music-map.com/)
+2.  [gnoosic](https://www.gnoosic.com/)
+3.  [musicroamer](https://musicroamer.com/player)
+4.  [last.fm](https://www.last.fm/)
+5.  [MagicPlaylist](https://magicplaylist.co/#/?_k=88fuiq)
+6.  [discogs](https://www.discogs.com/)
+7.  [whatsongs](https://www.what-song.com/) for soundtrack
+8.  [tunefind](https://www.tunefind.com/) for TV soundtrack
 
-### 10. 播放清單交換
-
-**實踐方式：**
-- 與朋友交換精選歌單
-- 參加播放清單交換活動
-- 加入音樂社群
-
-**為什麼有效？**
-
-朋友策劃的歌單：
-- **過濾機制** - 朋友已經幫你篩選過
-- **個人風格** - 了解朋友的音樂品味
-- **社交互動** - 討論音樂成為聊天話題
-
-## 8 個音樂探索工具
-
-### 1. Music Map
-- **功能：** 視覺化呈現相似藝人
-- **適合：** 找尋同類型音樂
-- **特色：** 互動式地圖介面
-
-### 2. Gnoosic
-- **功能：** 基於三個喜歡的樂團推薦新音樂
-- **適合：** 快速發現相似藝人
-- **特色：** 簡單直覺的介面
-
-### 3. MusicRoamer
-- **功能：** 探索音樂類型之間的關係
-- **適合：** 跨類型音樂探索
-- **特色：** 圖形化的類型連結
-
-### 4. Last.fm
-- **功能：** 記錄聆聽習慣並推薦音樂
-- **適合：** 長期音樂發現
-- **特色：** 社群和統計功能
-
-### 5. MagicPlaylist
-- **功能：** 根據一首歌生成播放清單
-- **適合：** 快速建立相似風格歌單
-- **特色：** 與 Spotify 整合
-
-### 6. Discogs
-- **功能：** 音樂資料庫和市集
-- **適合：** 深度音樂研究
-- **特色：** 完整的發行資訊
-
-### 7. WhatSong
-- **功能：** 查詢影視作品中的音樂
-- **適合：** 電影電視音樂愛好者
-- **特色：** 時間戳記對應
-
-### 8. TuneFind
-- **功能：** 影集電影音樂資料庫
-- **適合：** 追劇時發現新音樂
-- **特色：** 分集詳細列表
-
-## 實踐建議
-
-### 建立探索習慣
-
-**每週嘗試新類型**
-- 選擇一個不熟悉的類型
-- 聽至少 5 首不同藝人的作品
-- 記錄你的感受
-
-**保持開放心態**
-- 不要因為第一印象就放棄
-- 某些音樂需要多聽幾次才能體會
-- 了解音樂的文化背景
-
-**建立發現清單**
-- 專門收藏新發現的音樂
-- 定期回顧和整理
-- 與朋友分享你的發現
-
-### 組織你的音樂
-
-**分類管理**
-- 按心情建立播放清單
-- 按活動分類（運動、工作、放鬆）
-- 按發現時間記錄
-
-**定期更新**
-- 每月整理一次收藏
-- 刪除不再喜歡的音樂
-- 持續加入新發現
-
-## 走出音樂舒適圈
-
-發現新音樂不只是擴展播放清單，更是：
-- **拓展視野** - 了解不同文化和時代
-- **豐富生活** - 音樂為生活增添色彩
-- **自我探索** - 發現新的自己
-
-### 給自己一些挑戰
-
-1. **30 天新音樂挑戰** - 每天聽一位新藝人
-2. **類型探索計畫** - 每月深入一個新類型
-3. **復古音樂之旅** - 探索不同年代的音樂
-4. **世界音樂巡禮** - 每週聽一個國家的音樂
-
-## 結語
-
-音樂的世界無限寬廣，永遠有新的聲音等待被發現。
-
-使用這 10 種方法和 8 個工具：
-- ✅ 走出演算法的同溫層
-- ✅ 發現真正觸動你的音樂
-- ✅ 建立獨特的音樂品味
-- ✅ 享受探索的樂趣
-
-記住，**最好的音樂發現，往往來自意料之外。**
-
-保持好奇心，保持開放，讓音樂豐富你的每一天。
-
----
-
-你有什麼發現新音樂的獨特方法嗎？歡迎與我分享！
+To sum up, these ways truly help me to find music as wider as possible and find a new music continent that I have never known. Hope these tips can help you to jump out of your comfort zone. I was a Pop lover and now I am a soundtrack lover. From this music adventure, I also gradually develop knowledge of hip-pop and jazz music and know its philosophy. Hope you have a good music journey.

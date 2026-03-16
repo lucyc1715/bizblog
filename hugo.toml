@@ -11,7 +11,7 @@ name = "Lucy 路西"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Asia/Taipei"
 # post excerpt
-summaryLength = 10 # see https://gohugo.io/content-management/summaries/#automatic-summary
+summaryLength = 30 # see https://gohugo.io/content-management/summaries/#automatic-summary
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
@@ -37,7 +37,7 @@ shortname = '' # Disqus 已关闭 - 留空即可禁用评论功能
 ########################## Pagination ############################
 [pagination]
 disableAliases = false
-pagerSize = 10
+pagerSize = 20
 path = 'page'
 
 
